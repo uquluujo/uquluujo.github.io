@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uquluujo.github.io/sitemap_index.uquluujo
